@@ -1,0 +1,13 @@
+#App {
+  background-color: #bababa;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #333;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
